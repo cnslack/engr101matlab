@@ -416,6 +416,7 @@ Based on Laura's first attempt at the temperature converter, answer these review
   :feedback_b: Correct! The 9 / 5 is evaluated as integer division because 9 and 5 are both integers. So 9 / 5 = 1.8, but only the integer part (the 1) is kept. Change 9 / 5 to 9.0 / 5.0 and we force the expression to do "regular division" which is what we want in this case.
 
   The calculation :code:`f = 9 / 5 * c + 32` works for all values of :code:`c` (the temperature in Celsius).
+  
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Summary

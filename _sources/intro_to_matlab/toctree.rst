@@ -6,3 +6,4 @@ Introduction To MATLAB
   :maxdepth: 4
 
   main.rst
+  peer-in.rst

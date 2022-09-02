@@ -10,6 +10,17 @@
 
    <script src="../_static/common/js/common3.js"></script>
 
+.. raw:: html
+
+   <style>
+      .btn {
+         margin: 0;
+      }
+      .tab-pane {
+         padding: 0;
+      }
+   </style>
+
 ======================
 Introduction to MATLAB
 ======================
@@ -153,6 +164,7 @@ Consider the following MATLAB code, which might be used to calculate the net inc
 .. shortanswer:: ch01_02_ex_programming_constructs_03
 
   Give an example of an *expression* from the code above.
+
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Scripts
